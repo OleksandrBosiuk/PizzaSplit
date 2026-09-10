@@ -1,0 +1,13 @@
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\bin\Debug\net10.0\PizzaSplit.Core.deps.json
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\bin\Debug\net10.0\PizzaSplit.Core.dll
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\bin\Debug\net10.0\PizzaSplit.Core.pdb
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\PizzaSplit.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\PizzaSplit.Core.AssemblyInfoInputs.cache
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\PizzaSplit.Core.AssemblyInfo.cs
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\PizzaSplit.Core.csproj.CoreCompileInputs.cache
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\PizzaSplit.Core.dll
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\refint\PizzaSplit.Core.dll
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\PizzaSplit.Core.pdb
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\ref\PizzaSplit.Core.dll
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\PizzaSpl.490BE0A2.Up2Date
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\PizzaSplit.Core\obj\Debug\net10.0\PizzaSplit.Core.sourcelink.json
