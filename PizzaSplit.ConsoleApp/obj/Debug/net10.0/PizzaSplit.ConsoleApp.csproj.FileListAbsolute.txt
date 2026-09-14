@@ -1,0 +1,13 @@
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\bin\Debug\net10.0\PizzaSplit.ConsoleApp.deps.json
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\bin\Debug\net10.0\PizzaSplit.ConsoleApp.dll
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\bin\Debug\net10.0\PizzaSplit.ConsoleApp.pdb
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\PizzaSplit.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\PizzaSplit.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\PizzaSplit.ConsoleApp.AssemblyInfo.cs
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\PizzaSplit.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\PizzaSplit.ConsoleApp.dll
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\refint\PizzaSplit.ConsoleApp.dll
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\PizzaSplit.ConsoleApp.pdb
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\ref\PizzaSplit.ConsoleApp.dll
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\PizzaSpl.7E10343A.Up2Date
+C:\Users\bosyu\Downloads\PizzaSplit-master\PizzaSplit-master\ClassLibrary1\obj\Debug\net10.0\PizzaSplit.ConsoleApp.sourcelink.json
